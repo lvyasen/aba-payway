@@ -1,0 +1,24 @@
+{
+    "name": "walker/aba-payway",
+    "description": "A package for intergration with ABA's Payway",
+    "keywords": ["aba", "aba-payway"],
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Walker\\AbaPayway\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "walker",
+            "email": "kemp18530893662@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "6.*"
+    }
+}
