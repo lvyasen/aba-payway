@@ -1,17 +1,17 @@
 {
-    "name": "walker/aba-payway",
+    "name": "walker666/aba-payway",
     "description": "A package for intergration with ABA's Payway",
     "keywords": ["aba", "aba-payway"],
     "type": "composer-plugin",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Walker\\AbaPayway\\": "src/"
+            "Walker666\\AbaPayway\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "lvyasen",
+            "name": "walker666",
             "email": "kemp18530893662@gmail.com"
         }
     ],
