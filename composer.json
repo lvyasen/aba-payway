@@ -2,7 +2,6 @@
     "name": "walker666/aba-payway",
     "description": "A package for intergration with ABA's Payway",
     "keywords": ["aba", "aba-payway"],
-    "type": "composer-plugin",
     "license": "MIT",
     "autoload": {
         "psr-4": {
