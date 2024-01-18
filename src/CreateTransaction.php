@@ -1,6 +1,6 @@
 <?php
 
-namespace Walker\AbaPayway;
+namespace Qinyi\AbaPayway;
 
 class CreateTransaction extends PayWay
 {

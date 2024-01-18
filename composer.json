@@ -6,7 +6,7 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Walker666\\AbaPayway\\": "src/"
+            "Qinyi\\AbaPayway\\": "src/"
         }
     },
     "authors": [
@@ -15,7 +15,7 @@
             "email": "kemp18530893662@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php":">=7.0"
     },
